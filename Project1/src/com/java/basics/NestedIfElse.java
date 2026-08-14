@@ -18,5 +18,4 @@ public class NestedIfElse {
 				System.out.println(b);
 		}
 	}
-
 }
